@@ -1,27 +1,36 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-Landing Page Open Source
-Este é um projeto de uma página de destino open source, desenvolvida com as tecnologias HTML, CSS e JavaScript. O objetivo deste projeto é fornecer uma base simples e flexível para criar páginas de destino personalizadas e eficazes.
+# Bem-vindo à landing page V1!
 
-🚀 Como Usar
-Faça o download ou clone este repositório;
-Abra o arquivo index.html em qualquer navegador da web para ver a página de destino;
-Edite o código HTML e CSS para personalizar a página de destino;
-Adicione seu próprio JavaScript para adicionar funcionalidades personalizadas.
-💻 Tecnologias
-Este projeto foi desenvolvido com as seguintes tecnologias:
+[<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://github.com/SEU-USUARIO/SEU-PROJETO) [<img src="https://img.icons8.com/material-sharp/48/000000/home.png"/>](https://SEU-USUARIO.github.io/SEU-PROJETO/)
 
-HTML5: linguagem de marcação utilizada na construção da estrutura da página de destino;
-CSS3: linguagem de estilos utilizada para definir a aparência da página de destino;
-JavaScript: linguagem de programação utilizada para adicionar interatividade e dinamismo à página de destino.
-🤝 Contribuindo
-Faça um fork deste repositório;
-Crie uma branch com a sua feature: git checkout -b minha-feature;
-Faça commit das suas alterações: git commit -m 'Adicionado nova feature';
-Faça push para a sua branch: git push origin minha-feature;
-Abra um pull request para este repositório.
-📝 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE.md para mais informações.
+Este projeto é uma landing page open source desenvolvida para fins educacionais e colaborativos. Abaixo você encontrará informações sobre como contribuir e executar o projeto em sua máquina local.
+
+## 🚀 Começando
+
+Siga estes passos para executar o projeto em sua máquina local:
+
+1. Faça um fork do projeto.
+2. Clone o fork em sua máquina local.
+3. Instale as dependências com `npm install`.
+4. Execute o projeto com `npm start`.
+5. Abra o navegador em `http://localhost:3000`.
+
+## 🤝 Contribuindo
+
+Para contribuir com este projeto, siga estes passos:
+
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (`git checkout -b feature/minha-feature`).
+3. Faça as alterações necessárias e adicione testes para elas.
+4. Faça o commit de suas alterações (`git commit -am 'Adicionando minha feature'`).
+5. Faça o push para a branch (`git push origin feature/minha-feature`).
+6. Abra um pull request para a branch `main`.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/chagais/landingPage_v1/blob/main/LICENSE) para obter mais informações.
+
+## 🧑‍💻 Desenvolvedores
+
+- [@chagais](https://github.com/chagais)
+
+Esperamos que você tenha gostado do projeto! Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma [issue](https://github.com/chagais/landingPage_v1/issues/new).
