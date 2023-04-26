@@ -1,6 +1,6 @@
 # Bem-vindo à landing page V1!
 
-[<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://github.com/SEU-USUARIO/SEU-PROJETO) [<img src="https://img.icons8.com/material-sharp/48/000000/home.png"/>](https://SEU-USUARIO.github.io/SEU-PROJETO/)
+[<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://github.com/chagais/landingPage_v1) [<img src="https://img.icons8.com/material-sharp/48/000000/home.png"/>](https://chagais.github.io/landingPage_v1/)
 
 Este projeto é uma landing page open source desenvolvida para fins educacionais e colaborativos. Abaixo você encontrará informações sobre como contribuir e executar o projeto em sua máquina local.
 
